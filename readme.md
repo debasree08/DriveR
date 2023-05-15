@@ -49,7 +49,7 @@ The IMU data is in the following format:
 - python data_collect.py <file_name> // Collect Data
 - python maneuvers.py <file_name> // Feature Extraction 
 - python script_vid.py <file_name> // Preprocessing
-- python VI_RL.py // Running the model
+- Under the Model subdirectory, find the .ipynb file as VI_RL notebook  // Running the model
 ## Dataset
 A sample in-house dataset is provided in the dataset folder
 https://drive.google.com/drive/folders/1yK-jDdpKFq0Ts1xxYUkvTy1DKTZa9Dit?usp=sharing
@@ -63,5 +63,5 @@ To refer the <em>DriveR</em> framework or the dataset, please cite the following
 @INPROCEEDINGS{}
 
 ```
-For questions and general feedback, contact Debasree Das (debasree1994@gmail.com). --> -->
+For questions and general feedback, contact Debasree Das (debasree1994@gmail.com). --> 
 
