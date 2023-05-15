@@ -19,7 +19,7 @@ Use the following commands in sequence to run the system.
 </p> -->
 
 ## In-house Dataset
-We primarily utilize the IMU, the GPS, and the video data captured through the front camera (facing towards the front windscreen) as different modalities. A sample dataset is provided with the following modalities which is collected over three different cities in develpping country. The cities are named as city1, city2 and city3. For each city, we have provided 20 minutes of data, cumulating upto 1 hour. Due to large file size, we have provided the dataset in the following link.
+We primarily utilize the IMU, the GPS, and the video data captured through the front camera (facing towards the front windscreen) as different modalities. A sample dataset is provided with the following modalities which is collected over three different cities in developing country. The cities are named as City1, City2 and City3. For each city, we have provided 20 minutes of data, cumulating upto 1 hour. Due to large file size, we have provided the dataset in the following link.
 
 https://drive.google.com/drive/folders/1yK-jDdpKFq0Ts1xxYUkvTy1DKTZa9Dit?usp=sharing
 
