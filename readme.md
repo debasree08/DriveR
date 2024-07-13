@@ -1,5 +1,5 @@
 
-# <strong><em>Which Self-driving Mode Should I Enable on Your Streets? Auto-annotating Road Segments based on Driving Safety</em></strong>
+# <strong><em>DriveR: Towards Generating a Dynamic Road Safety Map with Causal Contexts</em></strong>
 Although fully autonomous vehicles are in their rising stage, understanding the road infrastructure and surrounding traffic is
 necessary to decide their autonomy level. A road segment where frequent traffic rules violations occur may not be suitable
 for a higher level of autonomy. In contrast, a well-maintained road segment with sparse traffic can definitely incorporate full
